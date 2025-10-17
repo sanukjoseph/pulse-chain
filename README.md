@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PulseChain
 
-## Getting Started
+**Automation You Trust. Intelligence You Rely On.**
 
-First, run the development server:
+***
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+PulseChain is a next-generation, AI-powered healthcare workflow automation platform designed to modernize and secure patient triage, notifications, and administrative processes. Built for speed, safety, and intelligence, PulseChain leverages agentic AI, robust privacy controls, and seamless interoperability with clinical systems empowering medical teams to automate what matters most.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+***
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Visual, no-code workflow builder for healthcare automations
+- Secure authentication and role-based access control
+- Real-time alerts and messaging (Discord, Slack)
+- AI-powered agent nodes (OpenAI, Claude, Gemini)
+- FHIR/HL7-based medical data connectivity
+- Audit logs, compliance (HIPAA/NDHM) and privacy-first design
+- Stripe and Polar payments SaaS monetization ready
+- Error tracking, background jobs, and cloud deployment
 
-## Learn More
+***
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Visual Workflow Builder, AI Agent Integrations, Next.js 15, React Flow, Prisma ORM, Neon Postgres, TypeScript, tRPC, Inngest, Sentry, CodeRabbit, FHIR/HL7, Secure Auth, Cloud Infrastructure (Vercel/AWS) etc..
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+***
 
-## Deploy on Vercel
+## 💡 Getting Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone this repo**
+2. `bun install` — installs dependencies
+3. Configure your `.env` (see `.env.example`)
+4. `bun dev` — launches local dev server
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+***
+
+## 👥 Team
+
+Built with ❤️ by Team Axon for MumbaiHacks 2025!
+
+***
+
+## 🏥 Why PulseChain?
+
+PulseChain was built to solve the real-world pain of slow, manual medical workflows. By bringing agentic automation and strong privacy protections directly into hospital and clinic operations, PulseChain helps clinicians deliver faster, safer, and smarter care with code you trust, and intelligence you rely on.
